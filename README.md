@@ -4,10 +4,10 @@ An end-to-end funnel analysis project focused on understanding customer journeys
 
 ## Key Findings
 
-* **Biggest Drop-off:** Purchase stage — **70.95%**
-* **Best Channel:** Google Ads — **10.63% conversion**
-* **Best Region:** South — **10.54% conversion**
-* **Best Category:** Electronics — **11.16% conversion**
+* **Biggest Drop-off:** Purchase stage  **70.95%**
+* **Best Channel:** Google Ads  **10.63% conversion**
+* **Best Region:** South  **10.54% conversion**
+* **Best Category:** Electronics **11.16% conversion**
 * **Best Device:** Desktop
 * **Cart Abandonment:** **50.27%**
 * **Potential Revenue Recovery:** **$954,906.62**
